@@ -1,0 +1,43 @@
+:root {
+  --red: #EB6859;
+  --yellow: #FDBB63;
+  --pink: #FC7174;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.card-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  background-color: var(--red);
+  margin: 20px;
+  width: 300px;
+  border-radius: 10px;
+
+}
+
+.card-item h1 {
+  color: white;
+  font-size: 24px;
+}
+
+.card-infos p {
+  color: var(--yellow);
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.card-btn {
+  margin: 10px 5px 20px 0px;
+  width: 75px;
+  
+  transition: all 0.2s ease;
+}

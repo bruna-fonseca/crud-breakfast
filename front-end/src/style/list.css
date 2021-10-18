@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+    margin: 20px;
+    margin-top: 50px;
+}
+
+.link {
+  text-decoration: none;
+  color: #696969;
+}
+
+.card-section {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+
+  justify-content: center;
+  align-content: center;
+}
