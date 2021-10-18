@@ -19,7 +19,7 @@ Http-status-codes |
 
 ## Aplicação
 
-Alguns imagens do projeto
+Algumas imagens do projeto
 
 <img src="./1.gif" />
 <img src="./2.gif" />
